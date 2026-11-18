@@ -34,11 +34,11 @@ This covers Week 3 of the Networkwalks Cybersecurity Internship. Both modules fo
 - Time taken: [FILL IN]
 - Confirmed by opening the PDF with the recovered password: [FILL IN: yes, it opened]
 
-![Hash extracted from the PDF](screenshots/01-hash-extracted.png)
+![Hash extracted from the PDF](01-hash-extracted.png)
 
-![Password recovered in Johnny](screenshots/02-johnny-result.png)
+![Password recovered in Johnny](02-johnny-result.png)
 
-![PDF opened with the recovered password](screenshots/03-pdf-opened-jtr.png)
+![PDF opened with the recovered password](03-pdf-opened-jtr.png)
 
 ### 4.2 Password Cracking with Networkwalks Tools (W3-PM2)
 - Uploaded the same PDF to the Networkwalks Hash Calculator, which returned the same `$pdf$` hash.
@@ -48,9 +48,9 @@ This covers Week 3 of the Networkwalks Cybersecurity Internship. Both modules fo
 
 Both tools recovered the same password from the same file, which shows the weakness is in the password itself, not in either tool.
 
-![Networkwalks Hash Calculator result](screenshots/04-hash-calculator.png)
+![Networkwalks Hash Calculator result](04-hash-calculator.png)
 
-![Networkwalks Password Cracker result](screenshots/05-password-cracker.png)
+![Networkwalks Password Cracker result](05-password-cracker.png)
 
 ## 5. Risk Analysis
 | # | Finding | Evidence | Possible impact | Level |
